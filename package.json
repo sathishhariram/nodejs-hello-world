@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/sathishhariram/nodejs-hello-world.git"
   },
-  "license": "SKH",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
